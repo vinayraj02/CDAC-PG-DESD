@@ -1,0 +1,4 @@
+ADC Assignment
+
+1. WAP to interface LDR to controller and take the reading.
+2. Automate the LED using LDR values or Potentiometer values.
