@@ -1,0 +1,12 @@
+Assignment
+
+1. Blinking an onboard Nucleo LED using any Timer. Timer
+Range should be 5 Sec.
+2. Dimming the onboard Nucleo LED with a timer using
+Interrupt only.
+3. Use internal RTC & display the Year, Month, Date, Hours,
+Minute, Second with every 30 seconds interval.
+4. Write a program to blink LED through PWM ( ON_Time =
+0.6s & OFF_Time = 0.4s)
+5. Write a program to blink LED through PWM where duty cycle
+is 20% & Timer range is 2 Sec
