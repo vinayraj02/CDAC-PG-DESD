@@ -1,0 +1,3 @@
+1. WAP to enable two interrupts, Turn ON LED through one interrupt and TURN OFF LED
+through another interrupt.
+2. WAP to Blink LED in an ISR with the delay of 2000 ms.
