@@ -1,0 +1,5 @@
+Assignment 2
+
+1. WAP to perform Memory to Peripheral transfer using DMA.
+2. WAP to perform Peripheral to Memory transfer using DMA.
+3. WAP to perform bit banding.
