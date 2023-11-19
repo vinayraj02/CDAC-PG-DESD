@@ -1,6 +1,6 @@
 The best book to learn dsa is "Datastructures through C in depth".
 
-->Most contents of the course for DESD are:
+->contents of the course for DESD are:
 Introduction to Data Structures, 
 Algorithms and Abstract Data Types, 
 Complexity of Algorithms,
