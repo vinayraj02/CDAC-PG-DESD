@@ -1,0 +1,1 @@
+In dynamic library we need to create a shared object file.
