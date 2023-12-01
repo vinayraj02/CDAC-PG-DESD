@@ -1,0 +1,1 @@
+In static library we need to create an archive file.
