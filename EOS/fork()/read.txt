@@ -1,0 +1,1 @@
+fork() function will create a child process which will inherite the parent.
