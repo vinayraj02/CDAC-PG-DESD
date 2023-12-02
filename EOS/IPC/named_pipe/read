@@ -1,0 +1,4 @@
+This named pipe is the mehtod of inter process communication which means two different processes can communicate through a channel which we need to create a file 
+which have extension of named this can't be used for any other purpose but only for "READ" and "WRITE" operations in the named file.
+
+cmd to create named pipe in linux - "mkfifo FILE_NAME"
