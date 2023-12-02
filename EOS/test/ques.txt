@@ -1,0 +1,13 @@
+Implement the following requirements using Operating system
+
+(use FIFO)
+
+1. System has two processes P1 and P2
+
+2. P1 opens a file "/usr/include/stdio.h
+
+3. P1 reads 128 bytes of data from the file and sends it to P2
+
+4. P2 calculates the occurrence of the letter 'A' and 'S' in the incoming data from P1 using two threads.
+
+5. P2 prints the number of occurrences of 'A' and 'S' letters.
