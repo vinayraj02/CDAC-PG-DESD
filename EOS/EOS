@@ -1,1 +1,22 @@
-EOS
+EOS-Course contents
+
+
+Introduction to Embedded Operating Systems, 
+Anatomy of an Embedded Linux System - Bootloader,
+Kernel, 
+Root File System, 
+Application -,
+Process Management, 
+Interprocess Communication & Synchronization, 
+Memory Management, 
+I/O sub- system & Embedded File Systems, 
+POSIX Thread Programming, 
+POSIX Semaphores, 
+Mutexes, 
+Conditional Variables, 
+Barriers, 
+Message Queues, 
+Shared Memory,
+Debugging and Testing of Multithreaded Applications,
+Socket Programming, 
+Customizing Embedded Linux based on Yocto 
