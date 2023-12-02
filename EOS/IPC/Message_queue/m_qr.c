@@ -12,7 +12,7 @@ atr.mq_maxmsg=4;
 atr.mq_msgsize=64;     
 atr.mq_curmsgs=0; 
 
-char buff[100];
+char buff[100];   //here the receiver buffer should be always greater than the sending message queue buffer size
 
 fd=mq_open("/msg",O_RDWR,S_IRUSR|S_IWUSR,&atr);
 int r=mq_receive(fd,buff,100, 0);
