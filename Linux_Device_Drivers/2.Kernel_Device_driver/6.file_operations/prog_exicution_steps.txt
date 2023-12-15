@@ -1,0 +1,16 @@
+steps to exicute:
+
+1.make
+2.sudo insmod ./kernelobject.ko
+3.cat /proc/devices                               // cat-> performs open,read and close
+4.sudo dmesg | tail -5
+5.mknod -m 777 /dev/<filename> c major minor    //no need of this if u create it automatically
+6.ls -l /dev/<filename>
+7.sudo su
+8.echo 1 >/dev/<device_file_name                 //echo -> performs open,write and close
+9.dmesg | tail -8
+10.cat /dev/<device_file_name>
+11.dmesg
+12.exit 
+13.rmnod /dev/device_name 						//skip this if you create automatically
+14.rmmod <kernel_object_file>
