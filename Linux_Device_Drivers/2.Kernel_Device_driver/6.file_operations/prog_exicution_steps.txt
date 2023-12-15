@@ -12,5 +12,5 @@ steps to exicute:
 10.cat /dev/<device_file_name>
 11.dmesg
 12.exit 
-13.rmnod /dev/device_name 						//skip this if you create automatically
+13.rmnod /dev/device_name 	//skip this if you create automatically
 14.rmmod <kernel_object_file>
