@@ -1,0 +1,8 @@
+steps to exicute:
+
+1.sudo insmod <driver file.ko>
+2.sudo dmesg
+3.sudo chmod 777 /dev/<device file name>  //if the device file created automatically to change the permissions
+4. ./<user binary exicutable file >
+5.sudo dmesg
+6.sudo rmmod <driver file.ko>
