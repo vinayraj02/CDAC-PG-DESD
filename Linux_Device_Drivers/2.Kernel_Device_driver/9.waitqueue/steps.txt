@@ -1,0 +1,7 @@
+steps to exicute:
+
+1.sudo insmod <driver.ko>
+2.sudo dmesg
+3.sudo chmod 777 /dev/<device file name>  //if the device file created automatically then to give the permissions
+4.cat /dev/<device file name>  //if the signal comes from the read func 
+5.sudo rmmod <driver.ko>
