@@ -114,7 +114,7 @@ static int wi(void){
         The assignment wait_thread = kthread_create(...) stores this pointer in the wait_thread variable for potential further use, 
         such as for managing or terminating the thread.}*/
         
-        wake_up_process(wait_thread);
+        wake_up_process(wait_thread);   //this function will call the thread
     return 0;
 }
 
