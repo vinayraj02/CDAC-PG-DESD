@@ -67,7 +67,7 @@ MODULE_AUTHOR("VK");
 
 
 /*
-steps to exicute:
+steps to execute:
 1.make
 2.sudo insmod ./kernelobject.ko
 3.cat /proc/devices                               // cat-> performs open,read and close
