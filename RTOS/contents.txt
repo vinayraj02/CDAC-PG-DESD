@@ -4,5 +4,6 @@ Performance Metrics of RTOS,
 Task Specifications, 
 Schedulability Analysis,
 Application Programming on RTOS, 
-Porting of RTOS, Configuring RTOS, 
+Porting of RTOS, 
+Configuring RTOS, 
 Building RTOS Image for Target platforms
