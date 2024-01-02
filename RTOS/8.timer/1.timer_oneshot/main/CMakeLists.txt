@@ -1,0 +1,1 @@
+idf_component_register(SRCS "p8.c" INCLUDE_DIRS "")
