@@ -1,1 +1,0 @@
-idf_component_register(SRCS "p7.c" INCLUDE_DIRS "")
