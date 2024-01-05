@@ -2,7 +2,7 @@
 #include <freertos/task.h>
 #include <driver/gpio.h>
 
-#define LED_PIN GPIO_NUM_25 // Assuming the LED is connected to GPIO pin 2
+#define LED_PIN GPIO_NUM_25 // Assuming the LED is connected to GPIO pin 25
 
 void blink_task(void *pvParameter) {
     while (1) {
