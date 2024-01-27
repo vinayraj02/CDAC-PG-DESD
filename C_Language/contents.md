@@ -1,0 +1,48 @@
+# practice the given 100 c questions
+
+
+# ->Complete c language contents:
+
+
+
+# Basics of Program Writing & Coding Practices, 
+# Overview of C Programming language, 
+# Introduction to GNU Toolchain and GNU Make utility, 
+# Linux environment and vi editor, 
+# Tokens of C - Keywords, 
+# Data-Types, 
+# Variables, 
+# Constants, 
+# Operators, 
+# Identifiers, 
+# Storage Class Specifiers, 
+# Control Flow Statements, 
+# Arrays, 
+# Multidimensional arrays, 
+# Data Input & Output, 
+# Strings, 
+# Loops, 
+# Functions and Recursion, 
+# Pointers - Introduction, 
+# Pointer Arithmetic, 
+# Pointers and Arrays, 
+# Pointers and Functions, 
+# Pointers and Strings, 
+# Structures, 
+# Unions, 
+# Enum, 
+# Typedef, 
+# Bit field operators and pointers with structures, 
+# Preprocessors, 
+# C and Assembly, 
+# Files, 
+# I/O, 
+# Variable number of arguments, 
+# Command Line arguments, 
+# Error handling, 
+# Debugging and Optimization of C programs, 
+# Bit operations, 
+# Handling portability issues in C, 
+# Hardware, 
+# Time, 
+# Space and Power aware Programming.
