@@ -5,7 +5,7 @@
 
 
 
-# Basics of Program Writing & Coding Practices, 
+## Basics of Program Writing & Coding Practices, 
 # Overview of C Programming language, 
 # Introduction to GNU Toolchain and GNU Make utility, 
 # Linux environment and vi editor, 
