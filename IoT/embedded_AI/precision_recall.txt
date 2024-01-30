@@ -1,0 +1,41 @@
+
+100 total
+
++ve 	cancer
+-ver 	no cancer
+
+Actual
+98 -ve
+2 +ve
+
+pridicted
+100 -ve
+0 +ve
+
+TP=0
+TN=98
+FP=0
+FN=2
+
+Accuracy = TP+TN/(all)
+			=98/100
+			= 98%
+
+Precision= TP/(TP+FP)
+			= 0/()
+			=0
+Recall = TP/(TP+FN)
+		=0/()
+		=0
+		
+TP=1
+TN=98
+FP=0
+FN=1
+
+Precison=Tp/(TP+FP)
+		= 1/(1)
+		=100
+Recall = TP/(TP+FN)
+		=1/(2)
+		0.5
