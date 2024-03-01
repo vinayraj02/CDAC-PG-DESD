@@ -1,0 +1,45 @@
+A C program contains the following declaration
+float table[2][3] = { { 1.1,1.2,1.3},{2.1,2.2,2.3}};
+
+● What is the meaning of a table?
+    ->table is a 2-dimensional array in C, representing a matrix with 2 rows and 3 columns,
+        where each element is of type float.
+
+● What is the meaning of (table+1)?
+    ->This represents a pointer arithmetic operation. 
+        It points to the memory location of the second row of the array.
+
+● What is the meaning of *(table+1)?
+    ->Dereferencing the pointer (table+1) gives the second row of the array.    
+
+● What is the meaning of (*(table+1)+1)?
+    ->This adds 1 to the value pointed to by the pointer (table+1). In other words, 
+    it accesses the second element of the second row.
+
+● What is the meaning of (*(table)+1)?
+    ->Dereferencing the pointer table gives the first row of the array. 
+    Adding 1 to this gives the second element of the first row.
+
+● What is the value of *(*(table+1) +1)?
+      ->This gives the value at the second element of the second row of the array.
+
+● What is the value of *(*(table)+1)?
+    ->This gives the value at the second element of the first row of the array.
+
+● What is the value of *(*(table+1))?
+    ->This gives the value at the first element of the second row of the array.
+
+● What is the value of *(*(table) + 1)+1?
+    ->This gives the value at the second element of the first row of the array, and then adds 1 to it.
+
+In summary:
+
+table: 2D array with 2 rows and 3 columns.
+(table+1): Pointer to the second row.
+*(table+1): Second row.
+(*(table+1)+1): Value at the second element of the second row.
+(*(table)+1): Value at the second element of the first row.
+*(*(table+1)+1): Value at the second element of the second row.
+*(*(table)+1): Value at the second element of the first row.
+*(*(table+1)): Value at the first element of the second row.
+*(*(table)+1) + 1: Value at the second element of the first row plus 1.

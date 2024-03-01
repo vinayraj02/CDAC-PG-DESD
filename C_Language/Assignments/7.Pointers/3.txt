@@ -1,0 +1,20 @@
+A C program contains the following declaration
+char *color[6] = {“red”, “green”, “blue”, “white”, “black”, “yellow”};
+
+● What is the meaning of color?
+    ->array of char type having 6 characters
+
+● What is the meaning of (color+2);
+    ->this gives the character in the 3rd place i.e; blue
+
+● What is the value of *color?
+    ->this points to the 1st element of the array i.e; red
+
+● What is the value of *(color+2)?
+    ->this gives the character in the 3rd place i.e; blue
+
+● How do color[5] and *(color + 5) differ?.
+    ->color[5] directly accesses the sixth element of the color array, which is a pointer to the string "yellow". 
+      On the other hand, *(color + 5) is equivalent and also points to the string "yellow".
+      The notation *(color + 5) is a pointer arithmetic representation, and color[5] is the array subscript notation, 
+      but they refer to the same memory location.
